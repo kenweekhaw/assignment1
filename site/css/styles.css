@@ -26,11 +26,8 @@ h1 {
     font-weight: bolder;
     padding: 5px 40px;
     border: 1px solid black;
-    /* position: relative;
-    right: 0;
-    top: 0; */
     float: right;
-    clear: left;
+    clear: left; */
 }
 
 .description {
